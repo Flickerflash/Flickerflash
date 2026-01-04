@@ -1,32 +1,45 @@
 # Hi, I'm Ndr (Flickerflash) 👋
 
 ## About Me
+Self-taught, self-directed **Pioneer** of AI Prompt Engineering and MCP–Autonomous AI Prompt Engineering portfolio creator.
 
-**Self-taught/Self-directed** Pioneer of AI Prompt Engineering & MCP-Autonomous AI Prompt Engineering Portfolio Creator
-
-I'm a self-directed learner specializing in designing advanced AI frameworks and governance systems that push the boundaries of autonomous AI capabilities. My work focuses on creating institutional-grade evaluation systems, security frameworks, and prompt optimization methodologies through independent research and hands-on experimentation.
+I design advanced AI frameworks and governance systems under the Agent Lavender lens and Gold Star audit standard. My focus is on institutional-grade evaluation systems, security frameworks, and prompt optimization methodologies built through independent research and hands-on experimentation.
 
 ## 🎯 Core Expertise
 
-- **AI Prompt Engineering**: Advanced prompt design, optimization, and meta-analysis techniques *(self-taught)*
-- **NIST AI Frameworks**: AI Risk Management Framework (AI RMF) implementation and compliance *(self-directed study)*
-- **AI Governance**: Comprehensive frameworks including Paul-Elder Critical Thinking, ISO 42001, IIA AI Auditing *(independent research)*
-- **Security Systems**: CyberShield Defense Framework (CSDF) development *(self-developed)*
-- **Framework Architecture**: Multi-agent systems, recursive evaluation, and benchmarking methodologies *(self-taught)*
+- **AI Prompt Engineering**  
+  Advanced prompt design, optimization, and meta-analysis techniques *(self-taught)*  
+
+- **NIST AI Frameworks**  
+  AI Risk Management Framework (AI RMF) implementation and compliance *(self-directed study)*  
+
+- **AI Governance**  
+  Paul–Elder Critical Thinking, ISO 42001, and IIA AI Auditing–aligned governance structures *(independent research)*  
+
+- **Security Systems**  
+  CyberShield Defense Framework (CSDF) for AI security and defense *(self-developed)*  
+
+- **Framework Architecture**  
+  Multi-agent systems, recursive evaluation, and benchmarking methodologies *(self-taught)*  
 
 ## 🛠️ Key Projects
 
-### Featured Repositories
+- **CSDF-Framework** – CyberShield Defense Framework for comprehensive AI security  
+  https://github.com/Flickerflash/CSDF-Framework  
 
-- **[CSDF-Framework](https://github.com/Flickerflash/CSDF-Framework)**: CyberShield Defense Framework for comprehensive AI security
-- **[ai-governance-frameworks](https://github.com/Flickerflash/ai-governance-frameworks)**: Validated frameworks for AI governance (NIST AI RMF, ISO 42001, IIA AI Auditing)
-- **[prompt-optimization-library](https://github.com/Flickerflash/prompt-optimization-library)**: Advanced prompt engineering techniques and optimization frameworks
-- **[ai-prompt-engineering-portfolio](https://github.com/Flickerflash/ai-prompt-engineering-portfolio)**: Portfolio showcasing Agent Lavender Micro-Benchmark and Gold Star Process Framework
+- **ai-governance-frameworks** – AI governance frameworks (NIST AI RMF, ISO 42001, IIA AI Auditing)  
+  https://github.com/Flickerflash/ai-governance-frameworks  
+
+- **prompt-optimization-library** – Advanced prompt engineering techniques and optimization frameworks  
+  https://github.com/Flickerflash/prompt-optimization-library  
+
+- **ai-prompt-engineering-portfolio** – Agent Lavender Micro-Benchmark and Gold Star Process Framework  
+  https://github.com/Flickerflash/ai-prompt-engineering-portfolio  
 
 ## 📫 Connect With Me
 
-- **GitHub**: [@Flickerflash](https://github.com/Flickerflash)
-- **Location**: Columbus, Ohio
+- **GitHub**: https://github.com/Flickerflash  
+- **Location**: Canal Winchester, Ohio, USA  
 
 ---
 
