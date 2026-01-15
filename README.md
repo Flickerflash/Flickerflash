@@ -1,7 +1,7 @@
 # Hi, I'm Ndr (Flickerflash) 👋
 
 ## About Me
-Self-taught, self-directed **Pioneer** of AI Prompt Engineering and MCP–Autonomous AI Prompt Engineering portfolio creator.
+Self-taught, self-directed **Pioneer** of AI Orchestration Engineering, AI Prompt Engineering and MCP–Autonomous AI Prompt Engineering portfolio creator.
 
 I design advanced AI frameworks and governance systems under the Agent Lavender lens and Gold Star audit standard. My focus is on institutional-grade evaluation systems, security frameworks, and prompt optimization methodologies built through independent research and hands-on experimentation.
 
