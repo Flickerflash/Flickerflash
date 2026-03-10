@@ -1,7 +1,7 @@
 # Hi, I'm Ndr (Flickerflash) 👋
 
 ## [SECTION 1: ABOUT ME]
-I am a self-taught **AI Orchestration Engineer** and **Systems Researcher** specializing in the transition from **Foundational Architecture and Design** to **Operational Deployment and Technical Implementation** [1-3]. I develop advanced AI frameworks and governance protocols utilizing the **Agent Apogee** (formerly Lavender) verification model and the **Gold Star** institutional audit standard [3-6].
+I am a self-taught **AI Orchestration Engineer** and **Systems Researcher** specializing in the transition from **Foundational Architecture and Design** to **Operational Deployment and Technical Implementation** [1-3]. I develop advanced AI frameworks and governance protocols utilizing the **Agent Apogee** verification model and the **Gold Star** institutional audit standard [3-6].
 
 My work focuses on engineering **Layer 0** evaluation systems, security substrates, and prompt optimization methodologies designed for enterprise-level rigor [3, 7, 8]. To maintain intellectual honesty and protect proprietary intellectual property (IP), public documentation focuses on **architectural logic and performance benchmarks**, while specific frequency tuning algorithms and private datasets remain confidential [9-12].
 
